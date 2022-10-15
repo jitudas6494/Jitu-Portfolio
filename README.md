@@ -10,4 +10,4 @@
 
 This Repository will host all my projects on Python, Machine Learning, EDA, Power BI, Tableau, etc. 
 
-It is also the source for my website-
+It is also the source for my website- https://jitudas6494.github.io/JMD6494/
