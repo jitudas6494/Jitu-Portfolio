@@ -8,3 +8,4 @@ Below are the datastes that I have worked on (List will keep growing as I practi
 2.  EDA Analysis on Dress Sales Dataset
 3.  EDA Analysis on Google Play Store Dataset
 4.  EDA Analysis on Test Wicket Dataset
+5.  EDA on Netflix Dataset
